@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbW9zLzlpR3lyZUZxN3dnR2JBM3VwdThUQ2hzcXVqOUtVUDc0c2NpSUY1TU9qdnB4NFhQOFdYcWJRcXhmcGMrbTNiUU1uQlgvRjhyYkd6OE5KOXRnb1EvUVlQZkRwa2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5OTE2NjgyCWZpbGU6Y2FzaGllci1zeXN0ZW1fMC4xLjBfeDY0LXNldHVwLmV4ZQo4RVJEclBrRHJhdklvNTdGUklVTXJVbGNOQnJtVjRHQjFUNnQ4Uy9vTEYraTJoTEFiV3VUdHA4UnhKZlZLM2kwUUNzTFcxL1pvakVZaXRJb1lsWHBBZz09Cg==",
-      "url": "https://gitee.com/StrongPHP/KwongLongCashier/releases/download/1.0.2/cashier-system_0.1.0_x64-setup.exe"
+      "url": "https://gitee.com/StrongPHP/KwongLongCashier/releases/download/0.1.0/cashier-system_0.1.0_x64-setup.exe"
     }
   }
 }
