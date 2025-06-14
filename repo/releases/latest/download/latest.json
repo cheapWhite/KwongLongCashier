@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "notes": "收银系统更新服务",
+  "pub_date": "",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
