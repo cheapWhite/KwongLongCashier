@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "收银系统更新服务更新",
+  "version": "0.1.5",
+  "notes": "收银系统更新服务更新555",
   "pub_date":"2025-06-15T14:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbW9zLzlpR3lyZUk2Y21kd3hhVis2YVl5SDYvdDZwTHRnWDQ4dzJPTEJyV2FaYitHNUJJMENTU3JjVUlIaURQK1NPWTVVYnZuSlhwWk5CWDVGNnVkNkdDWWg3cFVNWGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5OTYwMDE0CWZpbGU6Y2FzaGllci1zeXN0ZW1fMC4xLjJfeDY0LXNldHVwLmV4ZQpVcS9tOFM0MTI4OFprc1lMekFpMElNT0J4ODFEN0tTaHJKWmpoNjRmdytMaTc2emJ5VEhPYUtoVFVYcjVmVlRkbjN4TGJWNzhybEpUa3JISEJnODdEUT09Cg==",
-      "url": "https://gitee.com/StrongPHP/KwongLongCashier/releases/download/0.1.4/cashier-system_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbW9zLzlpR3lyZUZuNnRkVS9HT3RBT3NmRWhiSzdZQ1R2TGs1d0pycDBqQUVpT3o0aCtXSVMyaGdKRHNTaVAwdndEOEh2QWdzZE9xUkxLOElycXU3YXNQSmgzU3dBS3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5OTY4NjkwCWZpbGU6Y2FzaGllci1zeXN0ZW1fMC4xLjVfeDY0LXNldHVwLmV4ZQpWcmlCL3VXbytHdENBK3hKYUZPdmxqa3ExTk1MVXhDc2VVcWRTVGZ3bVh0WnF3ZGR3MEFFRTdhbG9OaGVSOTJJbEovdEovZ2d1TFJCOTgzOFJoWUxBdz09Cg==",
+      "url": "https://github.com/cheapWhite/KwongLongCashier/releases/download/0.1.5/cashier-system_0.1.5_x64-setup.exe"
     }
   }
 }
