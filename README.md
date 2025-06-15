@@ -1,2 +1,2 @@
 # KwongLongCashier
-用于更新收银系统的json
+基于tauri + vue3收银系统的验证和测试
